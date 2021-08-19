@@ -9,7 +9,7 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python /
 </div>
 
 - 🌱 I’m currently learning R, Python and stuff related to data analytics/science 
-- 💬 Ask me about The Leftovers, Vasco da Gama, how Dark is overrated 
+- 💬 Ask me about The Leftovers, Vasco da Gama, how Dark is overrated and why you didn't understand LOST
 - 📫 How to reach me: twitter 
 - ⚡ Fun fact: my brother ran over my right foot with the car while helping him to park
 
