@@ -17,7 +17,7 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python /
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedroceciliocn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedroceciliocn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pedroissoai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pedroccneto.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/letterboxd.svg' alt='letterboxd' height='40'>](https://boxd.it/BRiR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/last-dot-fm.svg' alt='last-dot-fm' height='40'>](https://www.last.fm/user/pedroceciliocn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/pedroissoai/)  
 
 
- 
+<!--
 <div align="center">
   <div style="display: flex;">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=pedroceciliocn&show_icons=true&count_private=true style="vertical-align: top;" />
@@ -25,7 +25,7 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python /
   </div>
 </div>
 
-<!--
+
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
