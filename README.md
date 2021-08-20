@@ -20,7 +20,7 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python /
  
 <div align="center">
   <div style="display: flex;">
-    <img align="leftt" src="https://github-readme-stats.vercel.app/api?username=pedroceciliocn&show_icons=true&count_private=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pedroceciliocn&show_icons=true&count_private=true style="vertical-align: top;" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroceciliocn&layout=compact" style="vertical-align: bot;" />
   </div>
 </div>
