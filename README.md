@@ -2,7 +2,7 @@
 
 I am an Information Systems undergraduate student starting a journey (maybe slowly or even a little lazy) of learning in the field of science/data analysis.
 
-Skills: Pro Evolution Soccer /  talk about random stuff / R / Python / 
+Skills: Pro Evolution Soccer /  talk about random stuff / R / Python 
 
 <div style="display: inline_block"><br>
   <img align="right" alt="gif-mp" src="https://raw.githubusercontent.com/pedroceciliocn/gifzera/main/a82af49709ba9d51317a44090d2af80b.gif">
@@ -21,11 +21,9 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python /
 
 
 
-
-
-[<img src='https://img.shields.io/badge/Linkedin--white?style=flat&labelColor=0072b1&logo=Linkedin&logoWidth=20' alt='lnkdn'>](https://www.linkedin.com/in/pedroceciliocn/)
+[![](https://img.shields.io/badge/Page_&-cv-657786?style=flat&labelColor=grey&logo=iCloud&logoColor=white&logoWidth=20)](https://pedroccneto.netlify.app/)
 [<img src='https://img.shields.io/badge/Twitter--1DA1F2?style=flat&labelColor=white&logo=Twitter&logoWidth=20' alt='twitter'>](https://twitter.com/pedroissoai)
-[<img src='https://img.shields.io/badge/Personal_Page--657786?style=flat&labelColor=grey&logo=iCloud&logoColor=white&logoWidth=20' alt='page'>](https://pedroccneto.netlify.app/)
+[<img src='https://img.shields.io/badge/Linkedin--white?style=flat&labelColor=0072b1&logo=Linkedin&logoWidth=20' alt='lnkdn'>](https://www.linkedin.com/in/pedroceciliocn/)
 [<img src='https://img.shields.io/badge/Letterboxd--ff8000?style=flat&labelColor=grey&logo=Letterboxd&logoColor=#00D735&logoWidth=20' alt='lbxd'>](https://boxd.it/BRiR)
 [<img src='https://img.shields.io/badge/Last.fm--white?style=flat&labelColor=D51007&logo=Last.fm&logoColor=white&logoWidth=20' alt='lastfm'>](https://www.last.fm/user/pedroceciliocn) 
 [<img src='https://img.shields.io/badge/Steam--white?style=flat&labelColor=000000&logo=Steam&logoColor=white&logoWidth=20' alt='steam'>](https://steamcommunity.com/id/pedroissoai/)
@@ -48,6 +46,8 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python /
 - 💬 Ask me about The Leftovers, Vasco da Gama 💢, how Dark is overrated and why you didn't understand LOST
 - 📫 How to reach me: twitter 
 - ⚡ Fun fact: my brother ran over my right foot with the car while helping him to park
+[![](https://img.shields.io/badge/type_one-diabetes-608ccc?style=for-the-badge&labelColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABklBMVEUAAABciMdejclcicdah8VdisdbicZdicdciMZcicZZhcZbicdYh8Vcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicdcicf///+YNrKSAAAAhHRSTlMAAAAAAAAAAAAAAAAABAwOBwY2fK7GybiOSw8pnu33vUgDRdb25uTx/u5yPN7lJiI4dM/1bgEXwsQ3HJr76T5vDaCsCBDFV9o178cRjHD9lFOYZX2nAl6I+EOzgdm/TJOlbPrLFTHiillmbbFECS6kgvPKqb7osmTbjX7Ulz0FKj9BMhZsQWHWAAAAAWJLR0SFFddq5wAAAAd0SU1FB+UIFQwdKWkuwekAAAFPSURBVDjL3ZLpN0JhEMbLkL0FEemqhJslKjdKpZSUfYvsyb7v+87zh5OTureu74759j7zm3dmzjwSyb8LaV65XKEkEs/mk6qiskpdXaOprRNjiLT1OnwH06A35BBUYGz8ypmamltYwNyqouz6tnagQ2O0dHZZbSzs3ZyQIEcP0OtMqkSuPjc8XsEcRP0sbNqURj4/MBAQAMFBMKGfGhlZhqBzCoBwBMMjaYUKR4Exfg8KjWOCJ9CkG1MCYBqYoaLM22vHbJQPzLGY5/+gj8FfzAcWTFhUZmYgK7AkaOFahidMsvRSK4itCrbg1oC4PCVRyXoCG5t8oJS2tpHYUZA0mTfsepDYE16UyvYZuA8Og1Hu6FgTAU582dcKnJqAs/OL+OUVC/balWMJUt7cIhXmO4eIZYiz3Ks9dsb88Pj0LO46IsXL69v7R/QXU/7d+AQxHUss8BBFDgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wOC0yMVQxMjoyOTo0MSswMDowMBNW3ZkAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDgtMjFUMTI6Mjk6NDErMDA6MDBiC2UlAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC&logoWidth=20)](https://shields.io)
+
 
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedroceciliocn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedroceciliocn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pedroissoai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pedroccneto.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/letterboxd.svg' alt='letterboxd' height='40'>](https://boxd.it/BRiR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/last-dot-fm.svg' alt='last-dot-fm' height='40'>](https://www.last.fm/user/pedroceciliocn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/pedroissoai/)
