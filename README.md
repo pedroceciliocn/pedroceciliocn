@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pedro
 
-I am an Information Systems undergraduate student starting a journey (maybe slowly or even a little lazy) of learning in the field of science/data analysis.
+I am an Information Systems undergraduate student starting a journey of learning in the field of science/data analysis.
 
 Skills: Pro Evolution Soccer /  talk about random stuff / R / Python 
 
