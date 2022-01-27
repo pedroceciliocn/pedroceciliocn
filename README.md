@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is Pedro
 
-I am an Information Systems undergraduate student starting a journey of learning in the field of science/data analysis.
+I am an Information Systems undergraduate student.
 
-Skills: Pro Evolution Soccer /  talk about random stuff / R / Python 
+<!--starting a journey of learning in the field of science/data analysis.
+
+Skills: Pro Evolution Soccer / talk about random stuff / R / Python-->
 
 [![](https://img.shields.io/badge/Page_&-cv-657786?style=flat&labelColor=grey&logo=iCloud&logoColor=white&logoWidth=20)](https://pedroccneto.netlify.app/)
 [<img src='https://img.shields.io/badge/Twitter--1DA1F2?style=flat&labelColor=white&logo=Twitter&logoWidth=20' alt='twitter'>](https://twitter.com/pedroissoai)
@@ -18,12 +20,13 @@ Skills: Pro Evolution Soccer /  talk about random stuff / R / Python
 <div style="display: inline_block;"><br /> <a href="https://www.last.fm/user/pedroceciliocn"><img src="https://lastfm-recently-played.vercel.app/api?user=pedroceciliocn&amp;count=4&amp;width=300" alt="lastfmwid" align="right" /></a><a href="https://raw.githubusercontent.com/pedroceciliocn/gifzera/main/a82af49709ba9d51317a44090d2af80b.gif"><img src="https://raw.githubusercontent.com/pedroceciliocn/gifzera/main/a82af49709ba9d51317a44090d2af80b.gif" alt="gif-mp" align="right" /></a></div>
 -->
   
-  
+<!--  
 - 🔭 I’m currently working on improve myself
 - 🌱 I’m currently learning R, Python and stuff related to data analytics/science 
 - 💬 Ask me about The Leftovers, Vasco da Gama 💢, how Dark is overrated and why you didn't understand LOST
 - 📫 How to reach me: twitter 
 - ⚡ Fun fact: my brother ran over my right foot with the car while helping him to park
+-->
 
 
 
