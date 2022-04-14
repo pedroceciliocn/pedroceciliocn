@@ -2,11 +2,7 @@
 
 I am an Information Systems undergraduate student.
 
-<!--starting a journey of learning in the field of science/data analysis.
-
-Skills: Pro Evolution Soccer / talk about random stuff / R / Python-->
-
-[![](https://img.shields.io/badge/Page_&-cv-657786?style=flat&labelColor=grey&logo=iCloud&logoColor=white&logoWidth=20)](https://pedroccneto.netlify.app/)
+<!-- [![](https://img.shields.io/badge/Page_&-cv-657786?style=flat&labelColor=grey&logo=iCloud&logoColor=white&logoWidth=20)](https://pedroccneto.netlify.app/) -->
 [<img src='https://img.shields.io/badge/Twitter--1DA1F2?style=flat&labelColor=white&logo=Twitter&logoWidth=20' alt='twitter'>](https://twitter.com/pedroissoai)
 [<img src='https://img.shields.io/badge/Linkedin--white?style=flat&labelColor=0072b1&logo=Linkedin&logoWidth=20' alt='lnkdn'>](https://www.linkedin.com/in/pedroceciliocn/)
 [<img src='https://img.shields.io/badge/Letterboxd--ff8000?style=flat&labelColor=grey&logo=Letterboxd&logoColor=#00D735&logoWidth=20' alt='lbxd'>](https://boxd.it/BRiR)
