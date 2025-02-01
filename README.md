@@ -1,6 +1,15 @@
 ### Hi there 👋, my name is Pedro
 
-I am an Information Systems undergraduate student.
+**SW Test Engineer | QA | Automation | Data | Python | R | SQL**  
+I am an undergraduate student in Information Systems at the **Federal University of Pernambuco (UFPE)**, with experience in **QA, test automation, web development, web scraping, and data analysis**. During my internship at the **CIn/Motorola Project**, I worked directly with multidisciplinary teams from **Brazil, the United States, India, and China**, developing collaboration skills in a global environment to ensure software quality for mobile devices.
+
+I have gained **practical experience in test automation**, script creation, and maintenance, working with tools such as **Python, pytest, ADB, Jenkins, Docker, Bash, Linux, and Git**, always aligned with **agile methodologies**. I also have knowledge in **web development** with **Django and Flask**, as well as in **data analysis**, handling structures such as **DataFrames** and applying libraries like **Pandas, NumPy, and Matplotlib** for data visualization and interpretation.
+
+Currently, I am studying **machine learning** with a focus on **optical character recognition (OCR)**, utilizing libraries such as **TensorFlow, PyTorch, and scikit-learn**, reinforcing my passion for **data technologies and artificial intelligence**.
+
+Additionally, I gained **interdisciplinary experience** while studying **Administration at UNIVASF**, where I participated in **educational projects for senior citizens**, producing audiovisual content and delivering lectures on **technology and mental health**.
+
+With a **continuous learning mindset**, I seek new opportunities to **expand my knowledge, apply technical skills, and collaborate on innovative projects**.
 
 <!-- [![](https://img.shields.io/badge/Page_&-cv-657786?style=flat&labelColor=grey&logo=iCloud&logoColor=white&logoWidth=20)](https://pedroccneto.netlify.app/) -->
 [<img src='https://img.shields.io/badge/Twitter--1DA1F2?style=flat&labelColor=white&logo=Twitter&logoWidth=20' alt='twitter'>](https://twitter.com/pedroissoai)
